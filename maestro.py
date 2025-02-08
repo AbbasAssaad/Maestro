@@ -21,7 +21,7 @@ def generate_url_token(length=16):
     return secrets.token_urlsafe(length)
 
 # Bot token
-BOT_TOKEN = "7963123621:AAE3iruUPGZh2shH50nk3cCvokKwvP8u7dA"
+BOT_TOKEN = ""
 
 # Constants
 MAX_WINNERS = 10
